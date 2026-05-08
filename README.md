@@ -6,7 +6,7 @@
   </a>
 </p>
 
-## 📌 About Me
+##  About Me
 - Aspiring DevOps Engineer | AWS Certified (CCP, SAA, Developer)
 - Cloud Architecture • AWS • Docker • CI/CD
 - Linux & System Fundamentals
@@ -14,7 +14,7 @@
 - Open to DevOps / Cloud Internship Opportunities
 
 
-## 🧠 My Focus Areas
+##  My Focus Areas
 - Designing scalable cloud architectures on AWS
 - DevOps practices and automation workflows
 - Linux system fundamentals and scripting
@@ -23,7 +23,7 @@
 - Backend development and system design
 
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -67,7 +67,7 @@
   </a>
 </p>
 
-## 🔗 Connect with Me
+##  Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ashutosh-shukla-4b8363322">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
