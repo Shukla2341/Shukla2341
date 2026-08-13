@@ -6,13 +6,10 @@
 
 <p align="center">
   <a href="https://github.com/Shukla2341">
-    <img src="https://img.shields.io/github/followers/Shukla2341?style=for-the-badge&logo=github&label=Followers"/>
-  </a>
-  <a href="https://github.com/Shukla2341?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-Shukla2341-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/ashutosh1234/">
-    <img src="https://img.shields.io/badge/LeetCode-ashutosh1234-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LeetCode-330%2B-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
 
@@ -22,7 +19,7 @@
 
 I'm a **Computer Science Engineering (AI & ML) student at KIET Group of Institutions**, focused on **DevOps, AWS Cloud, Linux administration, automation, and infrastructure**.
 
-I enjoy working with cloud infrastructure, containerization, monitoring, deployment, and automation.
+I enjoy building and working with cloud infrastructure, containerization, monitoring, deployment, and automation.
 
 * ☁️ AWS Cloud & Infrastructure
 * ⚙️ DevOps & Automation
@@ -72,9 +69,31 @@ I enjoy working with cloud infrastructure, containerization, monitoring, deploym
 
 ---
 
-## 📌 Featured Repositories
+## 📌 Pinned Projects
 
-> Check out my **pinned repositories** below to explore my work in AWS, DevOps, Linux, automation, and open source.
+<p align="center">
+
+<a href="https://github.com/Shukla2341/YOUR_PROJECT_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shukla2341&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Shukla2341/YOUR_PROJECT_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shukla2341&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" />
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Shukla2341/YOUR_PROJECT_3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shukla2341&repo=YOUR_PROJECT_3&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Shukla2341/YOUR_PROJECT_4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shukla2341&repo=YOUR_PROJECT_4&theme=tokyonight&hide_border=true" />
+</a>
+
+</p>
 
 ---
 
@@ -92,14 +111,12 @@ I enjoy working with cloud infrastructure, containerization, monitoring, deploym
 
 ---
 
-## 🧠 Problem Solving
+## 🧠 LeetCode
 
 <p align="center">
-
-<a href="https://leetcode.com/u/ashutosh1234/">
-  <img src="https://leetcard.jacoblin.cool/ashutosh1234?theme=dark&font=Baloo&ext=heatmap" />
-</a>
-
+  <a href="https://leetcode.com/u/ashutosh1234/">
+    <img src="https://leetcard.jacoblin.cool/ashutosh1234?theme=dark&font=Baloo&ext=heatmap" />
+  </a>
 </p>
 
 <p align="center">
@@ -108,7 +125,7 @@ I enjoy working with cloud infrastructure, containerization, monitoring, deploym
   </a>
 </p>
 
-**330+ LeetCode problems solved**
+**330+ Problems Solved**
 
 `Arrays` `Strings` `Recursion` `Trees` `Graphs`
 `Dynamic Programming` `Greedy` `Sorting` `Searching`
@@ -120,7 +137,7 @@ I enjoy working with cloud infrastructure, containerization, monitoring, deploym
 ### Coordinator
 
 * 🎤 Conducted technical sessions
-* ☁️ Organized AWS & cloud bootcamps
+* ☁️ Organized AWS & Cloud bootcamps
 * 👨‍💻 Helped students explore cloud technologies
 * 🛠️ Conducted hands-on technical activities
 * 🤝 Contributed to the technical learning community
@@ -138,15 +155,19 @@ I enjoy working with cloud infrastructure, containerization, monitoring, deploym
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Contribution Tracker
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shukla2341&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shukla2341&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
+---
+
+## 📈 Contribution Graph
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shukla2341&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shukla2341&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -159,10 +180,10 @@ I enjoy working with cloud infrastructure, containerization, monitoring, deploym
 
 ---
 
-## 📈 Contribution Activity
+## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shukla2341&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shukla2341&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
