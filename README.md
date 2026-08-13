@@ -1,60 +1,112 @@
-# 👋 Hi, I'm Ashutosh Shukla
-
-### 🚀 Aspiring DevOps Engineer | AWS Cloud | Backend | Automation
-
-I’m a **Computer Science Engineering (AI & ML) student** passionate about building scalable systems, automating infrastructure, and solving real-world engineering problems.
-
-I enjoy working across **Cloud, DevOps, Backend Development, Linux, Docker, AWS, and DSA**.
+# 👋 Hey, I'm Ashutosh Shukla
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+DevOps+Engineer;AWS+Cloud+Enthusiast;Backend+Developer;Linux+%7C+Docker+%7C+AWS;DSA+%7C+Problem+Solving;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Aspiring+DevOps+Engineer+%F0%9F%9A%80;AWS+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Linux+%7C+Docker+%7C+CI%2FCD+%F0%9F%94%A7;Cloud+Automation+%26+Monitoring+%F0%9F%93%8A;Always+Building.+Always+Learning." />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Shukla2341">
+    <img src="https://img.shields.io/github/followers/Shukla2341?label=Followers&style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://github.com/Shukla2341?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 Who Am I?
 
-* 🎓 B.Tech CSE (AI & ML) student at **KIET Group of Institutions**
-* ☁️ Interested in **AWS Cloud & DevOps Engineering**
-* 🐧 Comfortable working with **Linux & server environments**
-* 🐳 Building and deploying applications using **Docker & CI/CD**
-* ⚙️ Exploring **AWS infrastructure, monitoring, automation & scalability**
-* 💻 Strong interest in **Backend Development & System Design**
-* 🧠 Regularly practicing **DSA & competitive programming**
-* 🌱 Currently improving my skills in **DevOps, Cloud Architecture & Backend Engineering**
-* 🤝 Open to collaborating on **Cloud, DevOps and Open Source projects**
+```yaml
+name: Ashutosh Shukla
+role: Aspiring DevOps Engineer
+education: B.Tech CSE (AI & ML)
+college: KIET Group of Institutions
+
+focus:
+  - AWS Cloud
+  - DevOps
+  - Linux Administration
+  - Docker & Containers
+  - CI/CD
+  - Cloud Monitoring
+  - Infrastructure Automation
+
+currently_learning:
+  - Advanced AWS
+  - Kubernetes
+  - Terraform
+  - DevOps Automation
+
+mindset: "Automate everything that can be automated."
+```
 
 ---
 
-## 🛠️ Tech Stack
+# ☁️ My DevOps Journey
 
-### 👨‍💻 Languages
+```text
+Linux
+  │
+  ├── Shell Scripting
+  │
+  ▼
+AWS Cloud
+  │
+  ├── EC2 ── S3 ── IAM ── VPC
+  │
+  ▼
+Containers
+  │
+  └── Docker ── ECR ── ECS/Fargate
+  │
+  ▼
+CI/CD
+  │
+  └── GitHub Actions
+  │
+  ▼
+Monitoring
+  │
+  └── CloudWatch ── SNS ── SQS ── Lambda
+  │
+  ▼
+Observability
+  │
+  └── Grafana
+```
+
+---
+
+# 🛠️ My Arsenal
+
+### ☁️ Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,bash" />
+<img src="https://skillicons.dev/icons?i=aws" height="55"/>
 </p>
 
-### ☁️ Cloud & DevOps
+`EC2` `S3` `IAM` `VPC` `RDS` `Lambda` `CloudFront`
+`ECR` `ECS` `Fargate` `ALB` `Route 53` `CloudWatch`
+`SNS` `SQS` `DynamoDB`
+
+### ⚙️ DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,nginx" />
+<img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,terraform,kubernetes" />
 </p>
 
-**AWS:** EC2 • S3 • IAM • VPC • RDS • Lambda • CloudFront • ECR • ECS • Fargate • ALB • Route 53 • CloudWatch • SNS • SQS • DynamoDB
+`Docker` • `GitHub Actions` • `Linux` • `Nginx` • `Terraform` • `Kubernetes`
 
-### 🔧 Backend & Databases
+### 💻 Programming & Scripting
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,bash" />
 </p>
 
-### 🌐 Web Development
+`C` • `C++` • `Python` • `Bash`
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
-</p>
-
-### 🔨 Tools
+### 🔧 Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,grafana" />
@@ -62,147 +114,199 @@ I enjoy working across **Cloud, DevOps, Backend Development, Linux, Docker, AWS,
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### ☁️ Linux Server Monitoring & Automation
+<table>
+<tr>
+<td width="50%">
 
-A complete Linux server administration and monitoring system built around AWS and automation.
+### ☁️ AWS Linux Monitoring
 
-**Highlights:**
+A complete cloud-based Linux monitoring and automation system.
 
-* Linux server configuration & security hardening
-* Nginx setup and application log monitoring
-* Automated backup using `rsync` & `cron`
-* Server-to-server synchronization
-* AWS CloudWatch metrics & logs
-* CloudWatch alarms for CPU, memory & disk usage
-* SNS notifications and SQS processing
-* Lambda-based alert automation
-* DynamoDB alert storage
-* Grafana monitoring dashboard
-* SSH key rotation and login restrictions
+**Built with**
 
-**Tech:** `Linux` `AWS EC2` `CloudWatch` `SNS` `SQS` `Lambda` `DynamoDB` `Grafana` `Nginx` `Bash`
+`EC2` `CloudWatch` `SNS` `SQS`
+`Lambda` `DynamoDB` `Grafana` `Nginx`
+
+**Features**
+
+* Server monitoring
+* Automated alerts
+* Log collection
+* Backup automation
+* Security hardening
+* Grafana dashboard
+
+</td>
+
+<td width="50%">
+
+### 🐳 Containerized Deployment
+
+A production-style container deployment workflow.
+
+**Built with**
+
+`Docker` `ECR` `ECS`
+`Fargate` `ALB` `GitHub Actions`
+
+**Features**
+
+* Dockerized applications
+* Container registry
+* ECS deployment
+* Load balancing
+* CI/CD pipeline
+* Automated deployments
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 AWS AI Workshop
+
+Explored AWS serverless and AI infrastructure.
+
+**Technologies**
+
+`Amazon Bedrock`
+`Lambda` `API Gateway`
+`DynamoDB` `S3`
+
+</td>
+
+<td width="50%">
+
+### 🔐 Linux Security Automation
+
+Hands-on Linux administration and security automation.
+
+**Focus**
+
+`SSH` `Cron` `Bash`
+`Users & Permissions`
+`Server Hardening`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🐳 Containerized Application Deployment
-
-Worked with containerized frontend/backend applications and AWS deployment workflows.
-
-**Highlights:**
-
-* Dockerized frontend and backend applications
-* Docker Compose based development
-* Amazon ECR image management
-* ECS Fargate deployment
-* Application Load Balancer configuration
-* GitHub Actions CI/CD
-* Production-oriented container workflows
-
-**Tech:** `Docker` `AWS ECR` `ECS` `Fargate` `ALB` `GitHub Actions`
-
----
-
-### 🤖 AWS AI Developer Projects
-
-Built applications using AWS serverless and AI services.
-
-**Technologies explored:**
-
-`Amazon Bedrock` `Lambda` `API Gateway` `DynamoDB` `S3`
-
----
-
-## 🧠 DSA & Problem Solving
-
-I regularly practice Data Structures & Algorithms and work on improving my problem-solving skills.
-
-* 🟢 LeetCode: **330+ problems solved**
-* 📈 Focus areas:
-
-  * Arrays & Strings
-  * Recursion & Backtracking
-  * Linked Lists
-  * Trees & Graphs
-  * Dynamic Programming
-  * Sorting & Searching
-  * Greedy Algorithms
-  * Hashing
-  * Bit Manipulation
+# 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/ashutosh1234?theme=dark&font=Baloo&ext=heatmap" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shukla2341&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shukla2341&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shukla2341&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 Experience & Community
+# 🧠 Problem Solving
+
+I also spend time strengthening my DSA and problem-solving skills.
+
+### 🏆 LeetCode
+
+**330+ Problems Solved**
+
+```text
+Arrays              ████████████████████
+Strings             ████████████████
+Recursion           ████████████
+Trees & Graphs      ███████████
+Dynamic Programming ██████████
+Searching & Sorting ███████████████
+```
+
+---
+
+# 🌐 Open Source & Community
 
 ### ☁️ AWS Cloud Club — KIET
 
 **Coordinator**
 
-* Conducted technical sessions and cloud-focused bootcamps
-* Helped students learn AWS and cloud technologies
-* Worked on practical cloud and DevOps concepts
-* Contributed to technical community activities
+* 🎤 Conducted technical sessions
+* ☁️ Organized AWS/cloud bootcamps
+* 👨‍💻 Helped students explore cloud technologies
+* 🛠️ Promoted hands-on technical learning
+* 🤝 Worked with the student developer community
 
-### 🌐 Open Source
+### 🌍 Open Source
 
-* Contributor to open-source projects
-* Participating in **GSSoC**
-* Interested in contributing to projects involving **DevOps, Cloud, Backend & Automation**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+* 🚀 GSSoC contributor
+* 🔀 Open-source contributions
+* 🧩 Interested in DevOps & Cloud projects
+* 🤝 Always open to meaningful collaborations
 
 ---
 
-## 📈 Contribution Graph
+# 🎯 2026 Mission
+
+```text
+☑ Strengthen AWS fundamentals
+☑ Improve Linux administration
+☑ Build real-world DevOps projects
+☑ Master Docker
+☐ Learn Kubernetes deeply
+☐ Learn Terraform & Infrastructure as Code
+☐ Build production-grade CI/CD pipelines
+☐ Contribute more to Open Source
+☐ Become a strong DevOps Engineer
+```
+
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shukla2341&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
-## 🎯 2026 Goals
+# 🐍 Watch My Contributions Get Eaten
 
-* ☁️ Become highly proficient in **AWS**
-* 🚀 Build production-grade **DevOps pipelines**
-* 🐳 Master **Docker & Kubernetes**
-* 🔧 Improve **Linux & System Administration**
-* 🧠 Strengthen **DSA & System Design**
-* 🌐 Contribute more to **Open Source**
-* 💻 Build and deploy more real-world projects
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+
+<a href="https://github.com/Shukla2341">
+<img src="https://img.shields.io/badge/GitHub-Shukla2341-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
 
+---
+
 <p align="center">
-  <b>⚡ Build → Automate → Deploy → Learn → Repeat</b>
+
+### 💭 *"Don't just deploy applications. Build systems that deploy themselves."*
+
+<br>
+
+**⚡ Learn → Build → Automate → Deploy → Monitor → Repeat ⚡**
+
 </p>
