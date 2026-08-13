@@ -1,15 +1,18 @@
 # 👋 Hey, I'm Ashutosh Shukla
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Aspiring+DevOps+Engineer+%F0%9F%9A%80;AWS+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Linux+%7C+Docker+%7C+CI%2FCD+%7C+Automation;Cloud+Monitoring+%26+Infrastructure" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=36BCF7&center=true&vCenter=true&width=800&lines=Aspiring+DevOps+Engineer+%F0%9F%9A%80;AWS+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Linux+%7C+Docker+%7C+CI%2FCD;Cloud+Automation+%26+Monitoring;Building+with+Cloud+%26+DevOps" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Shukla2341">
-    <img src="https://img.shields.io/github/followers/Shukla2341?style=for-the-badge&logo=github&label=Followers"/>
+    <img src="https://img.shields.io/badge/GitHub-Shukla2341-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://github.com/Shukla2341?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github"/>
+  <a href="https://leetcode.com/u/ashutosh1234/">
+    <img src="https://img.shields.io/badge/LeetCode-ashutosh1234-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -17,157 +20,158 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Computer Science Engineering (AI & ML) student at KIET Group of Institutions**, focused on **DevOps, AWS Cloud, Linux administration, automation, and infrastructure**.
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│   👨‍💻  Ashutosh Shukla                              │
+│   🎓  CSE (AI & ML) — KIET                         │
+│   ☁️  AWS Cloud Enthusiast                          │
+│   ⚙️  DevOps & Automation                           │
+│   🐧  Linux & Server Administration                 │
+│   🐳  Docker & Containerization                     │
+│   🔄  CI/CD & Deployment                            │
+│   📊  Monitoring & Observability                    │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
 
-I enjoy building practical systems around cloud infrastructure, containerization, monitoring, deployment, and automation.
+I’m a **Computer Science Engineering (AI & ML) student at KIET Group of Institutions**, passionate about **AWS Cloud, DevOps, Linux, automation, infrastructure, and problem solving**.
 
-* ☁️ AWS Cloud & Infrastructure
-* ⚙️ DevOps & Automation
-* 🐧 Linux & Server Administration
-* 🐳 Docker & Containerization
-* 🔄 CI/CD with GitHub Actions
-* 📊 Cloud Monitoring & Observability
-* 🧠 Data Structures & Algorithms
-* 🌍 Open Source Contributor
-* ☁️ AWS Cloud Club Coordinator
+I enjoy turning infrastructure into something **automated, observable, reliable, and scalable**.
 
 ---
 
-# ⚡ Tech Stack
+# ☁️ Cloud & DevOps Stack
 
-### ☁️ Cloud
+### AWS
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws" height="55"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws" height="65"/>
 </p>
+
+<p align="center">
 
 `EC2` `S3` `IAM` `VPC` `RDS` `Lambda` `CloudFront`
+
 `ECR` `ECS` `Fargate` `ALB` `Route 53` `CloudWatch`
+
 `SNS` `SQS` `DynamoDB`
 
-### 🚀 DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx" />
 </p>
 
-`Docker` • `GitHub Actions` • `Linux` • `Nginx` • `CI/CD`
+### DevOps & Infrastructure
 
-### 💻 Programming & Scripting
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,bash" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,grafana" />
 </p>
+
+<p align="center">
+
+`Docker` • `GitHub Actions` • `Linux` • `Nginx` • `Grafana`
+
+</p>
+
+### Programming & Scripting
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,bash" />
+</p>
+
+<p align="center">
 
 `C` • `C++` • `Python` • `Bash`
 
-### 🔧 Tools
+</p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,grafana,postman" />
+### Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Work
 
-<table>
-<tr>
+<p align="center">
 
-<td width="50%" valign="top">
+<a href="https://github.com/Shukla2341">
+<img src="https://img.shields.io/badge/☁️%20AWS%20Cloud%20Projects-Explore-232F3E?style=for-the-badge"/>
+</a>
 
-## ☁️ Linux Server Monitoring & Automation
+<a href="https://github.com/Shukla2341">
+<img src="https://img.shields.io/badge/⚙️%20DevOps%20Projects-Explore-326CE5?style=for-the-badge"/>
+</a>
 
-A complete Linux server administration and AWS-based monitoring system.
+<a href="https://github.com/Shukla2341">
+<img src="https://img.shields.io/badge/🐧%20Linux%20Projects-Explore-FCC624?style=for-the-badge"/>
+</a>
 
-### 🔥 Highlights
+</p>
 
-* Linux server configuration
-* Nginx configuration
-* Automated backups using `rsync`
-* Cron-based automation
-* Server-to-server synchronization
-* SSH key rotation
-* Linux security hardening
-* CloudWatch metrics & logs
-* CPU, memory & disk monitoring
-* CloudWatch alarms
-* SNS notifications
-* SQS message processing
-* Lambda automation
-* DynamoDB alert storage
-* Grafana dashboard
+### 📌 Pinned Repositories
 
-**Stack**
+<p align="center">
 
-`Linux` `AWS EC2` `CloudWatch` `SNS` `SQS`
-`Lambda` `DynamoDB` `Grafana` `Nginx` `Bash`
+<a href="https://github.com/Shukla2341/YOUR_REPO_1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shukla2341&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true"/>
+</a>
 
-</td>
+<a href="https://github.com/Shukla2341/YOUR_REPO_2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shukla2341&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true"/>
+</a>
 
-<td width="50%" valign="top">
+</p>
 
-## 🐳 AWS Container Deployment
+<p align="center">
 
-Containerized application deployment using AWS infrastructure and CI/CD.
+<a href="https://github.com/Shukla2341/YOUR_REPO_3">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shukla2341&repo=YOUR_REPO_3&theme=tokyonight&hide_border=true"/>
+</a>
 
-### 🔥 Highlights
+<a href="https://github.com/Shukla2341/YOUR_REPO_4">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shukla2341&repo=YOUR_REPO_4&theme=tokyonight&hide_border=true"/>
+</a>
 
-* Dockerized applications
-* Docker image management
-* Amazon ECR
-* ECS Fargate
-* Application Load Balancer
-* GitHub Actions CI/CD
-* Production-style deployment workflow
-* Container-based infrastructure
+</p>
 
-**Stack**
+---
 
-`Docker` `AWS ECR` `ECS`
-`Fargate` `ALB` `GitHub Actions`
+# 🧠 LeetCode
 
-</td>
+<p align="center">
+  <a href="https://leetcode.com/u/ashutosh1234/">
+    <img src="https://leetcard.jacoblin.cool/ashutosh1234?theme=dark&font=Baloo&ext=heatmap" />
+  </a>
+</p>
 
-</tr>
+<p align="center">
+  <a href="https://leetcode.com/u/ashutosh1234/">
+    <img src="https://img.shields.io/badge/330%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
 
-<tr>
+### ⚡ Problem Solving
 
-<td width="50%" valign="top">
+```text
+Arrays              ████████████████████
+Strings             ████████████████
+Recursion           █████████████
+Sorting              ███████████████
+Searching            █████████████
+Trees                ███████████
+Graphs               █████████
+Dynamic Programming  █████████
+Greedy               ███████████
+```
 
-## 🤖 AWS AI Developer Workshop
+<p align="center">
 
-Hands-on work with AWS AI and serverless services.
+<a href="https://leetcode.com/u/ashutosh1234/">
+  <img src="https://img.shields.io/badge/View%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
-**Technologies**
-
-`Amazon Bedrock`
-`AWS Lambda`
-`API Gateway`
-`DynamoDB`
-`Amazon S3`
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🔐 Linux Administration
-
-Hands-on Linux administration and system configuration involving:
-
-* Users & permissions
-* SSH configuration
-* Server hardening
-* Shell scripting
-* Cron jobs
-* Nginx
-* Logs
-* Backup automation
-
-</td>
-
-</tr>
-</table>
+</p>
 
 ---
 
@@ -175,22 +179,13 @@ Hands-on Linux administration and system configuration involving:
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/LeetCode-330%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-330%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/GSSoC-2026%20Contributor-purple?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GSSoC-2026-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/AWS-Cloud%20Club-blue?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS%20Cloud%20Club-Coordinator-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 </p>
-
-### 🧠 Problem Solving
-
-**330+ LeetCode problems solved**
-
-Focus areas include:
-
-`Arrays` `Strings` `Recursion` `Trees` `Graphs`
-`Dynamic Programming` `Greedy` `Sorting` `Searching`
 
 ---
 
@@ -198,13 +193,14 @@ Focus areas include:
 
 ### Coordinator
 
-As an AWS Cloud Club coordinator, I have been involved in:
+<p align="center">
 
-* 🎤 Conducting technical sessions
-* ☁️ Organizing AWS & cloud bootcamps
-* 👨‍💻 Helping students explore cloud technologies
-* 🛠️ Conducting hands-on technical activities
-* 🤝 Building a technical learning community
+🎤 **Technical Sessions**    •   
+☁️ **AWS Bootcamps**    •   
+🛠️ **Hands-on Workshops**    •   
+🤝 **Community**
+
+</p>
 
 ---
 
@@ -212,10 +208,13 @@ As an AWS Cloud Club coordinator, I have been involved in:
 
 ### GirlScript Summer of Code — GSSoC 2026
 
-* Open-source contributor
-* Worked on community-driven projects
-* Submitted and contributed through GitHub
-* Collaborated through issues and pull requests
+<p align="center">
+
+`Open Source` • `GitHub` • `Pull Requests` • `Collaboration`
+
+</p>
+
+Contributed to community-driven projects through GitHub issues, pull requests, and collaborative development.
 
 ---
 
@@ -226,8 +225,12 @@ As an AWS Cloud Club coordinator, I have been involved in:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shukla2341&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
+---
+
+# 📈 Contribution Tracker
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shukla2341&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shukla2341&theme=tokyo-night&hide_border=true&area=true&custom_title=Ashutosh's%20Contribution%20Graph" />
 </p>
 
 ---
@@ -240,20 +243,32 @@ As an AWS Cloud Club coordinator, I have been involved in:
 
 ---
 
-# 📈 Contribution Activity
+# 📊 Language Statistics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shukla2341&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shukla2341&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
 
-# 🔗 Connect With Me
+# 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shukla2341&label=Profile%20Views&color=36BCF7&style=for-the-badge" />
+</p>
+
+---
+
+# 🤝 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/Shukla2341">
 <img src="https://img.shields.io/badge/GitHub-Shukla2341-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/ashutosh1234/">
+<img src="https://img.shields.io/badge/LeetCode-ashutosh1234-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
@@ -272,6 +287,8 @@ As an AWS Cloud Club coordinator, I have been involved in:
 
 ### ⚡ Build • Automate • Deploy • Monitor
 
-<img src="https://komarev.com/ghpvc/?username=Shukla2341&style=flat-square&color=blue" />
+</p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer"/>
 </p>
