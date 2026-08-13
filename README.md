@@ -19,7 +19,7 @@
 
 I'm a **Computer Science Engineering (AI & ML) student at KIET Group of Institutions**, focused on **DevOps, AWS Cloud, Linux administration, automation, and infrastructure**.
 
-I enjoy working with cloud infrastructure, containerization, monitoring, deployment, and automation.
+I enjoy building practical systems around cloud infrastructure, containerization, monitoring, deployment, and automation.
 
 * ☁️ AWS Cloud & Infrastructure
 * ⚙️ DevOps & Automation
@@ -33,12 +33,12 @@ I enjoy working with cloud infrastructure, containerization, monitoring, deploym
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
 ### ☁️ Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws" height="55"/>
+<img src="https://skillicons.dev/icons?i=aws" height="55"/>
 </p>
 
 `EC2` `S3` `IAM` `VPC` `RDS` `Lambda` `CloudFront`
@@ -48,7 +48,7 @@ I enjoy working with cloud infrastructure, containerization, monitoring, deploym
 ### 🚀 DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx" />
+<img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx" />
 </p>
 
 `Docker` • `GitHub Actions` • `Linux` • `Nginx` • `CI/CD`
@@ -56,7 +56,7 @@ I enjoy working with cloud infrastructure, containerization, monitoring, deploym
 ### 💻 Programming & Scripting
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,bash" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,bash" />
 </p>
 
 `C` • `C++` • `Python` • `Bash`
@@ -64,18 +64,114 @@ I enjoy working with cloud infrastructure, containerization, monitoring, deploym
 ### 🔧 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,grafana,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,grafana,postman" />
 </p>
 
 ---
 
-## 📌 Featured Repositories
+# 🚀 Featured Projects
 
-> Check out my **pinned repositories** below to explore my work in AWS, DevOps, Linux, automation, and open source.
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## ☁️ Linux Server Monitoring & Automation
+
+A complete Linux server administration and AWS-based monitoring system.
+
+### 🔥 Highlights
+
+* Linux server configuration
+* Nginx configuration
+* Automated backups using `rsync`
+* Cron-based automation
+* Server-to-server synchronization
+* SSH key rotation
+* Linux security hardening
+* CloudWatch metrics & logs
+* CPU, memory & disk monitoring
+* CloudWatch alarms
+* SNS notifications
+* SQS message processing
+* Lambda automation
+* DynamoDB alert storage
+* Grafana dashboard
+
+**Stack**
+
+`Linux` `AWS EC2` `CloudWatch` `SNS` `SQS`
+`Lambda` `DynamoDB` `Grafana` `Nginx` `Bash`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🐳 AWS Container Deployment
+
+Containerized application deployment using AWS infrastructure and CI/CD.
+
+### 🔥 Highlights
+
+* Dockerized applications
+* Docker image management
+* Amazon ECR
+* ECS Fargate
+* Application Load Balancer
+* GitHub Actions CI/CD
+* Production-style deployment workflow
+* Container-based infrastructure
+
+**Stack**
+
+`Docker` `AWS ECR` `ECS`
+`Fargate` `ALB` `GitHub Actions`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🤖 AWS AI Developer Workshop
+
+Hands-on work with AWS AI and serverless services.
+
+**Technologies**
+
+`Amazon Bedrock`
+`AWS Lambda`
+`API Gateway`
+`DynamoDB`
+`Amazon S3`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🔐 Linux Administration
+
+Hands-on Linux administration and system configuration involving:
+
+* Users & permissions
+* SSH configuration
+* Server hardening
+* Shell scripting
+* Cron jobs
+* Nginx
+* Logs
+* Backup automation
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
 <p align="center">
 
@@ -91,35 +187,39 @@ I enjoy working with cloud infrastructure, containerization, monitoring, deploym
 
 **330+ LeetCode problems solved**
 
+Focus areas include:
+
 `Arrays` `Strings` `Recursion` `Trees` `Graphs`
 `Dynamic Programming` `Greedy` `Sorting` `Searching`
 
 ---
 
-## ☁️ AWS Cloud Club — KIET
+# ☁️ AWS Cloud Club — KIET
 
 ### Coordinator
 
-* 🎤 Conducted technical sessions
-* ☁️ Organized AWS & cloud bootcamps
-* 👨‍💻 Helped students explore cloud technologies
-* 🛠️ Conducted hands-on technical activities
-* 🤝 Contributed to the technical learning community
+As an AWS Cloud Club coordinator, I have been involved in:
+
+* 🎤 Conducting technical sessions
+* ☁️ Organizing AWS & cloud bootcamps
+* 👨‍💻 Helping students explore cloud technologies
+* 🛠️ Conducting hands-on technical activities
+* 🤝 Building a technical learning community
 
 ---
 
-## 🌍 Open Source
+# 🌍 Open Source
 
 ### GirlScript Summer of Code — GSSoC 2026
 
-* 🌱 Open-source contributor
-* 🔀 Worked with GitHub issues and pull requests
-* 🤝 Collaborated on community-driven projects
-* 💻 Contributed to open-source development
+* Open-source contributor
+* Worked on community-driven projects
+* Submitted and contributed through GitHub
+* Collaborated through issues and pull requests
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shukla2341&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
@@ -132,7 +232,7 @@ I enjoy working with cloud infrastructure, containerization, monitoring, deploym
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -140,7 +240,7 @@ I enjoy working with cloud infrastructure, containerization, monitoring, deploym
 
 ---
 
-## 📈 Contribution Activity
+# 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shukla2341&theme=tokyo-night&hide_border=true&area=true" />
@@ -148,7 +248,7 @@ I enjoy working with cloud infrastructure, containerization, monitoring, deploym
 
 ---
 
-## 🔗 Connect With Me
+# 🔗 Connect With Me
 
 <p align="center">
 
